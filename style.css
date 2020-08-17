@@ -17,7 +17,7 @@ body {
 
 /*---------- Article ----------*/
 .article {
-    padding: 6vh 7vw;
+    padding: 5vh 7vw;
     height: auto;
 }
 
@@ -52,7 +52,7 @@ body {
     bottom: 0;
     display: inline-grid;
     grid-template-columns: auto 55vw auto;
-    padding: 0px 0px 15px;
+    padding: 0px 0px 10px;
     margin-top: 30px;
 }
 
@@ -91,7 +91,7 @@ body {
 
 /* ------------- end footer ----------- */
 
-/*------ for mobile devices with a width > 700px  ------ */
+/* ------ for mobile devices with a width > 700px  ------
 @media screen and (max-width: 400px) and (min-height: 700px) {
     .article-header h1 {
         font-size: 24px;
@@ -100,7 +100,7 @@ body {
     .article-text {
         font-size: 20px;
     }
-}
+} */
 
 
 
